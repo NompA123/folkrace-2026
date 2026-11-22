@@ -1,0 +1,8 @@
+{
+  "name": "roblox-folkrace-2026-anmalan",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tävlingskalender och anmälningar till Roblox Folkrace",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=22.13.0" }
+}
